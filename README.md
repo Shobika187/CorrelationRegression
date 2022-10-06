@@ -62,5 +62,5 @@ plt.legend(['Regression Line','Data points'])
 ![Screenshot (25)](https://user-images.githubusercontent.com/94508142/194225155-37334c66-c21b-44ab-ae2f-38077be0b85a.png)
 
 ## Result
-The given data i successfully analyzed using  coeffificient of correlation and regression line.
+The given data is successfully analyzed using  coeffificient of correlation and regression line.
 
